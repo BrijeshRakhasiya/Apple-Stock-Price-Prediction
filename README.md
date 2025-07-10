@@ -1,4 +1,4 @@
-# 📈 Apple Stock Price Prediction using AutoTS
+# 📈 Apple Stock Price Prediction 
 
 This project uses **AutoTS**, an automated time series forecasting library, to predict the next 5 days of **Apple Inc. (AAPL)** stock prices. The historical stock data is fetched from Yahoo Finance, and interactive visualizations are created using Plotly for insightful analysis.
 
